@@ -1,1 +1,1 @@
-# flappy-bird-python
+This is a spin-off of the once famous Flappy Bird game made using Pygame in Python 2.7. To run this simply compile Flappy_Bird.py. I'd recommend using this IDE: http://ftp.heanet.ie/pub/portablepython/v2.7/PortablePython_2.7.6.1.exe. The project folder also includes the latest version of Pygame.
